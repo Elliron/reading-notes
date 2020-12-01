@@ -13,8 +13,8 @@ Hi everyone, my name is Glenn Elliron Clark and I go by he/him.  I am a former M
 > "It's not a bug - it's an undocumented feature." by Unknown
 
 **Table of Contents**
-  - [Introduction](class-01.md)
-  - [2]()
+  - [Class-01](class-01.md)
+  - [Class-02](class-02.md)
   - [3]()
   - [4]()
   - [5]()
