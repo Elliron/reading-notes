@@ -35,9 +35,11 @@ creates rules that controls how each box/contents present.
 - **href** path to css files
 - **type** attribute specifies type of doc linked to 
 - **rel** relations between HTML and file
+
 ```
 <link href="cssFilePath.css" type="text/css" rel="stylesheet">
 ```
+
 - **style** css rule within html page `<style>`
 - **inheritance** value of property is inherited by children
 
