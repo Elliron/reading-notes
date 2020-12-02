@@ -15,7 +15,7 @@ Hi everyone, my name is Glenn Elliron Clark and I go by he/him.  I am a former M
 **Table of Contents**
   - [Class-01](class-01.md)
   - [Class-02](class-02.md)
-  - [3]()
+  - [Class-03](class-03.md)
   - [4]()
   - [5]()
   - [6]()
