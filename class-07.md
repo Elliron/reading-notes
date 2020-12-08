@@ -31,7 +31,9 @@ Represents info in a grid format
 - `thead` headings of the table sit inside here
 - `tbody` body sits inside here
 - `tfoot` footers insisde here
+
 ```
+
 <table>
   <thead>
     <tr>
@@ -65,6 +67,7 @@ Represents info in a grid format
     </tr>
   </tfoot>
 <table>
+
 ```
 
 # Objects
