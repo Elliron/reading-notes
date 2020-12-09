@@ -20,7 +20,7 @@ Hi everyone, my name is Glenn Elliron Clark and I go by he/him.  I am a former M
   - [Class-05](class-05.md)
   - [Class-06](class-06.md)
   - [Class-07](class-07.md)
-  - [8]()
+  - [Class-08](class-08.md)
   - [9]()
   - [10]()
   - [11]()
