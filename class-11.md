@@ -1,28 +1,36 @@
-#Images
+# Images
 
 Create classes for ease when dealing with images.
 image sizes such as small medium and large.  
+
 ```
 img.small {
   width: 100px;
   height: 100px;
 }
+
 ```
+
 Classes for aligning such as left and right
+
 ```
 img.align-leftg {
   float :left;
   margin-right: 10px;
 }
 ```
+
 Centering images
+
 ```
 img.align-center {
   display block;
   margin: 0px auto;
 }
 ```
+
 background images
+
 ```
 body {
   background: color imageUrl repeat attachment position
