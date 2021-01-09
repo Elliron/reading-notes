@@ -35,4 +35,4 @@ CSS treats each HTML element as if it is in a box
   - **multiple style sheets** `@import` HTML element links to one style sheet, that sheet uses @import to connect to other style sheets
   - **multiple style sheets** `<link rel="stylesheet" type="text/css" href="cssLink"/>`
 
-[Home](README.md)
+[Home](../README.md)

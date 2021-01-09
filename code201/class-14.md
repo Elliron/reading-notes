@@ -173,4 +173,4 @@
     - high "average social sensitivity" skilled at intuiting how others felt based on tone of voice 
     - **psychological safety**
 
-[Home](README.md)
+[Home](../README.md)

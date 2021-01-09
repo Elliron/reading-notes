@@ -93,4 +93,4 @@ hotItems[i].className = 'cool';     //change value of class attribute
 
 
 
-[Home](README.md)
+[Home](../README.md)

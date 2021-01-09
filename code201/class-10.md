@@ -36,4 +36,4 @@
     - *finally* will run whether try block succeeds or fails
   - **throwing errors** create your own error before interpreter creates them
 
-[Home](README.md)
+[Home](../README.md)

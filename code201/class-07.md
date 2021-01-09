@@ -91,4 +91,4 @@ Represents info in a grid format
 - **date object** work with dates `var today = new Date();`
 
 
-[Home](README.md)
+[Home](../README.md)

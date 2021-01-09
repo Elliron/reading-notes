@@ -78,4 +78,4 @@ creates rules that controls how each box/contents present.
   - **if else** checks condition if false tries next condition
   - **switch statement** indicates possible value for variable
 
-[Home](README.md)
+[Home](../README.md)

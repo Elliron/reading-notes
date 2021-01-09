@@ -174,4 +174,4 @@ Bezier and quadratic curves
 - **`measureText()`**
 
 
-[Home](README.md)
+[Home](../README.md)
