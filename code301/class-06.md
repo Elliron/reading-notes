@@ -1,1 +1,7 @@
+## Node.js
+
+Node.js is built on Chrome's V8 Javascript engine, it was designed with a focus on performance and compiles JS directly from native machine code, it is supported in ES6 and beyond.  Node executes on your computer instead of in a browser making it a Javascript runtime.  When installing Node you can use either Node binaries in your system or a version manager, the version manager allows you to use different versions of node depending on your project.  The version manager also removes permission issues while using Node with npm.
+
+  Since Node.js targets a single runtime it can be written using the newest JS syntax.  It comes bundled with a package manager called npm, which is the largest software registry in the world and contains millions of downloadable packages.  Node is single threaded and event driven, everything that happens in Node is a reaction to an event.  It is good for applications that require real-time interaction or collaboration, as well as data streaming and performing operations on databases.  Node allows the user to write with a single language instead of having to switch between different ones.  It speaks JSON allowing data to neatly flor without reformatting.  
+
 [Home](../README.md)
