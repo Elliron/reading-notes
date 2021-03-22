@@ -46,3 +46,5 @@ Hi everyone, my name is Glenn Elliron Clark and I go by he/him.  I am a former M
   - [Class-14](code301/class-14.md)
 
   ## Code 401 - Advanced Software Development
+
+    - [Class-01](code401/class-01.md)
